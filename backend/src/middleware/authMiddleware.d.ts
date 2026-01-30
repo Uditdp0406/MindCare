@@ -1,0 +1,6 @@
+import { Request, Response, NextFunction } from "express";
+export interface AuthRequest<P = any, ResBody = any, ReqBody = any, ReqQuery = any> extends Request<P, ResBody, ReqBody, ReqQuery> {
+    user?: any;
+}
+export declare function authMiddleware(req: AuthRequest, res: Response, next: NextFunction): Promise<Response<any, Record<string, any>> | undefined>;
+//# sourceMappingURL=authMiddleware.d.ts.map

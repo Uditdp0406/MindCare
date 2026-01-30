@@ -1,0 +1,1 @@
+{"version":3,"file":"journalEntry.d.ts","sourceRoot":"","sources":["journalEntry.ts"],"names":[],"mappings":"AAAA,OAAO,EAAiB,QAAQ,EAAE,KAAK,EAAE,MAAM,UAAU,CAAC;AAE1D,MAAM,WAAW,aAAc,SAAQ,QAAQ;IAC7C,IAAI,EAAE,KAAK,CAAC,QAAQ,CAAC;IACrB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,IAAI,CAAC;CACZ;;;;;;AA+BD,wBAAwE"}
